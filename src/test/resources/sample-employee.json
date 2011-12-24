@@ -1,0 +1,15 @@
+{
+  "jobTitleName": "Job.title",
+  "firstName": "Name.firstName",
+  "lastName": "Name.lastName",
+  "company": "Company.name",
+  "dateOfBirth": "DateAndTime.birthday",
+  "address": {
+    "streetAddress": "Address.streetAddress",
+    "city": "Address.city",
+    "state": "Address.state",
+    "country": "Address.country",
+    "zipCode": "Address.zipCode"
+  },
+  "phoneNumber": "PhoneNumber.phoneNumber"
+}
